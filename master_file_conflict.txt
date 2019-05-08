@@ -24,3 +24,4 @@ createandmergebranch2
 
 2
 last
+Master conflict
