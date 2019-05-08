@@ -1,6 +1,6 @@
 # git-training
 TEST
-
+TEST2
 hola
 hola2
 
